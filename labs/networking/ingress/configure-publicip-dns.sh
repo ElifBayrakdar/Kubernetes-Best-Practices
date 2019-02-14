@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Public IP address
-IP="23.96.88.158"
+IP="52.170.30.156"
 
 # Name to associate with public IP address
 DNSNAME=elifbayrakdar357
